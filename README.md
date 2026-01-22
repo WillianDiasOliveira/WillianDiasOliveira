@@ -6,6 +6,15 @@
 
 ---
 
+<a href="https://github.com/WillianDiasOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianDiasOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDiasOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
+    
+<div>
+    <a href="www.linkedin.com/in/willian-dias-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ### 💻 Linguagens e Tecnologias
 
 <img 
@@ -19,26 +28,3 @@
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=WillianDiasOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=WillianDiasOliveira&layout=compact&theme=tokyonight&locale=pt-br&langs_count=10&hide_border=true" 
-  />
-</p>
-<br><br><br><br><br><br><br>
-
-</p>
-
