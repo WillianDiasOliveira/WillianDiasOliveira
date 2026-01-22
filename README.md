@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem vindo(a), sou Willian.
+# 👋 Seja bem vindo(a), sou Willian.
 
 **`Desenvolvedor BackEnd`**
 
