@@ -4,8 +4,6 @@
 
 *Prazer, me chamo Willian Dias de Oliveira, tenho 23 anos e sou natural de São Paulo – capital. Sou formado em Engenharia Mecatrônica e atualmente estou em processo de transição de carreira para a área de desenvolvimento Back-end. No momento, curso Back-end em python pela plataforma Alura, com o objetivo de me desenvolver continuamente, aprimorar minhas habilidades técnicas e consolidar minha atuação nessa área.*
 
-**Linkedin** ➡️ [Willian Dias](www.linkedin.com/in/willian-dias-366784198)
-
 
 <p align="left">
     <a href="https://github.com/WillianDiasOliveira?tab=repositories&sort=stargazers">
