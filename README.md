@@ -41,9 +41,6 @@ No momento, curso **Back-End com Python** pela plataforma Alura, com o objetivo 
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:willian.dias.oliveira@hotmail.com">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
 
 </div>
 
