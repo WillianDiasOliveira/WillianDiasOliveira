@@ -2,7 +2,7 @@
 <h1 align="center">👋 Seja bem-vindo(a), sou Willian</h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-End em transição de carreira
+  💻 Desenvolvedor Back-End
 </p>
 
 ---
