@@ -1,34 +1,58 @@
-<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Gradiente Dark Azul -->
 
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0A66C2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0B0F19;stop-opacity:1" />
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0F1F"/>
+      <stop offset="50%" stop-color="#0A66C2"/>
+      <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
+
+```
+<!-- Glow -->
+<filter id="glow">
+  <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+  <feMerge>
+    <feMergeNode in="coloredBlur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+```
+
   </defs>
 
-  <rect width="1000" height="260" fill="url(#grad)" />
+  <!-- Fundo -->
 
-<text x="50%" y="55%" text-anchor="middle"
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- Texto -->
+
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
      font-family="Fira Code, monospace"
      font-size="42"
-     fill="white">
+     fill="#FFFFFF"
+     filter="url(#glow)">
 
 ```
 <tspan id="typing"></tspan>
 
-<animate
-  xlink:href="#typing"
-  attributeName="textContent"
-  values="
-  BEM VINDO AO MEU PERFIL;
-  WELCOME TO MY PROFILE;
-  BIENVENIDO A MI PERFIL;
-  BEM VINDO AO MEU PERFIL"
-  dur="9s"
-  repeatCount="indefinite"/>
+<!-- Animação typing -->
+<animate attributeName="opacity"
+         values="0;1;0"
+         dur="6s"
+         repeatCount="indefinite"/>
 ```
 
   </text>
+
+  <!-- Cursor -->
+
+  <rect x="850" y="85" width="10" height="40" fill="#FFFFFF">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
 
 </svg>
