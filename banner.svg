@@ -49,60 +49,56 @@
 
   <!-- ================= TEXTOS IDIOMAS ================= -->
 
-  <!-- EN -->
   <text x="50%" y="45%"
         text-anchor="middle"
         font-family="Fira Code, monospace"
         font-size="44"
         fill="#FFFFFF"
         filter="url(#glow)"
-        visibility="hidden">
+        opacity="0">
 
     Welcome to my profile
 
-    <set attributeName="visibility"
-         to="visible"
-         begin="0s"
-         dur="3s"
-         repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="1;1;0;0"
+             keyTimes="0;0.333;0.333;1"
+             dur="9s"
+             repeatCount="indefinite"/>
   </text>
 
-  <!-- PT -->
   <text x="50%" y="45%"
         text-anchor="middle"
         font-family="Fira Code, monospace"
         font-size="44"
         fill="#FFFFFF"
         filter="url(#glow)"
-        visibility="hidden">
+        opacity="0">
 
     Bem-vindo(a) ao meu perfil
 
-    <set attributeName="visibility"
-         to="visible"
-         begin="3s"
-         dur="3s"
-         repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.333;0.333;0.666;0.666;1"
+             dur="9s"
+             repeatCount="indefinite"/>
   </text>
 
-  <!-- ES -->
   <text x="50%" y="45%"
         text-anchor="middle"
         font-family="Fira Code, monospace"
         font-size="44"
         fill="#FFFFFF"
         filter="url(#glow)"
-        visibility="hidden">
+        opacity="0">
 
     Bienvenido a mi perfil
 
-    <set attributeName="visibility"
-         to="visible"
-         begin="6s"
-         dur="3s"
-         repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0;0;1;1"
+             keyTimes="0;0.666;0.666;1"
+             dur="9s"
+             repeatCount="indefinite"/>
   </text>
-
   <!-- ================= SEU NOME ================= -->
 
   <text x="50%" y="70%"
