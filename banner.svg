@@ -1,17 +1,21 @@
-<svg width="100%" height="220" viewBox="0 0 1200 220"
+<svg width="100%" height="260" viewBox="0 0 1200 260"
      xmlns="http://www.w3.org/2000/svg">
 
-  <!-- ========= FUNDO ========= -->
+  <!-- ================= DEFS ================= -->
   <defs>
 
-    <!-- Gradiente Dark Blue -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#050A18"/>
-      <stop offset="50%" stop-color="#0A66C2"/>
+    <!-- Gradiente animado -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050A18">
+        <animate attributeName="stop-color"
+          values="#050A18;#0A66C2;#000814;#0A66C2;#050A18"
+          dur="12s"
+          repeatCount="indefinite"/>
+      </stop>
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
-    <!-- Glow -->
+    <!-- Glow neon -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
@@ -22,14 +26,34 @@
 
   </defs>
 
-  <rect width="1200" height="220" fill="url(#bg)"/>
+  <!-- ================= FUNDO ================= -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
 
-  <!-- ========= TEXTOS ========= -->
+  <!-- ================= LINHA TECH ================= -->
+  <line x1="0" y1="210" x2="1200" y2="210"
+        stroke="#0A66C2"
+        stroke-width="2"
+        opacity="0.6">
 
-  <!-- FRASE 1 -->
-  <text x="50%" y="50%" text-anchor="middle"
+    <animate attributeName="x1"
+      values="-1200;1200"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+    <animate attributeName="x2"
+      values="0;2400"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+  </line>
+
+  <!-- ================= TEXTOS IDIOMAS ================= -->
+
+  <!-- EN -->
+  <text x="50%" y="45%"
+        text-anchor="middle"
         font-family="Fira Code, monospace"
-        font-size="42"
+        font-size="44"
         fill="#FFFFFF"
         filter="url(#glow)"
         visibility="hidden">
@@ -43,10 +67,11 @@
          repeatCount="indefinite"/>
   </text>
 
-  <!-- FRASE 2 -->
-  <text x="50%" y="50%" text-anchor="middle"
+  <!-- PT -->
+  <text x="50%" y="45%"
+        text-anchor="middle"
         font-family="Fira Code, monospace"
-        font-size="42"
+        font-size="44"
         fill="#FFFFFF"
         filter="url(#glow)"
         visibility="hidden">
@@ -60,10 +85,11 @@
          repeatCount="indefinite"/>
   </text>
 
-  <!-- FRASE 3 -->
-  <text x="50%" y="50%" text-anchor="middle"
+  <!-- ES -->
+  <text x="50%" y="45%"
+        text-anchor="middle"
         font-family="Fira Code, monospace"
-        font-size="42"
+        font-size="44"
         fill="#FFFFFF"
         filter="url(#glow)"
         visibility="hidden">
@@ -75,6 +101,19 @@
          begin="6s"
          dur="3s"
          repeatCount="indefinite"/>
+  </text>
+
+  <!-- ================= SEU NOME ================= -->
+
+  <text x="50%" y="70%"
+        text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="26"
+        fill="#0A66C2"
+        filter="url(#glow)">
+
+    Willian Dias • Back-End Developer • Python
+
   </text>
 
 </svg>
