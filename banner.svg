@@ -99,13 +99,13 @@
              dur="9s"
              repeatCount="indefinite"/>
   </text>
-  <!-- ================= SEU NOME ================= -->
+  <!-- ================= MEU NOME ================= -->
 
   <text x="50%" y="70%"
         text-anchor="middle"
         font-family="Fira Code, monospace"
         font-size="26"
-        fill="#0A66C2"
+        fill="#aecbe8"
         filter="url(#glow)">
 
     Willian Dias • Back-End Developer • Python
