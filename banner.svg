@@ -1,6 +1,7 @@
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 1200 220"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <!-- ================= BACKGROUND ================= -->
+  <!-- ========= FUNDO ========= -->
   <defs>
 
     <!-- Gradiente Dark Blue -->
@@ -10,64 +11,70 @@
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
-    <!-- Glow Neon -->
+    <!-- Glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Scanlines -->
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" fill="rgba(255,255,255,0.04)"/>
-    </pattern>
-
   </defs>
 
-  <!-- Fundo -->
   <rect width="1200" height="220" fill="url(#bg)"/>
 
-  <!-- Ondas animadas -->
-  <path fill="#0A66C2" opacity="0.15">
-    <animate attributeName="d" dur="12s" repeatCount="indefinite"
-      values="
-      M0,160 C300,200 900,120 1200,160 L1200,220 L0,220 Z;
-      M0,170 C300,120 900,200 1200,150 L1200,220 L0,220 Z;
-      M0,160 C300,200 900,120 1200,160 L1200,220 L0,220 Z
-      "/>
-  </path>
+  <!-- ========= TEXTOS ========= -->
 
-  <!-- Scanline overlay -->
-  <rect width="1200" height="220" fill="url(#scan)" />
-
-  <!-- ================= TEXT ================= -->
-
-  <!-- Texto Glow -->
-  <text x="50%" y="52%"
-        text-anchor="middle"
-        dominant-baseline="middle"
+  <!-- FRASE 1 -->
+  <text x="50%" y="50%" text-anchor="middle"
         font-family="Fira Code, monospace"
-        font-size="44"
+        font-size="42"
         fill="#FFFFFF"
-        filter="url(#glow)">
+        filter="url(#glow)"
+        visibility="hidden">
 
-    WELCOME TO MY PROFILE
+    Welcome to my profile
 
-    <!-- Fade typing fake -->
-    <animate attributeName="opacity"
-             values="0;1;1;0"
-             dur="6s"
-             repeatCount="indefinite"/>
+    <set attributeName="visibility"
+         to="visible"
+         begin="0s"
+         dur="3s"
+         repeatCount="indefinite"/>
   </text>
 
-  <!-- Cursor piscando -->
-  <rect x="860" y="95" width="10" height="40" fill="#FFFFFF">
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="1s"
-             repeatCount="indefinite"/>
-  </rect>
+  <!-- FRASE 2 -->
+  <text x="50%" y="50%" text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="42"
+        fill="#FFFFFF"
+        filter="url(#glow)"
+        visibility="hidden">
+
+    Bem-vindo(a) ao meu perfil
+
+    <set attributeName="visibility"
+         to="visible"
+         begin="3s"
+         dur="3s"
+         repeatCount="indefinite"/>
+  </text>
+
+  <!-- FRASE 3 -->
+  <text x="50%" y="50%" text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="42"
+        fill="#FFFFFF"
+        filter="url(#glow)"
+        visibility="hidden">
+
+    Bienvenido a mi perfil
+
+    <set attributeName="visibility"
+         to="visible"
+         begin="6s"
+         dur="3s"
+         repeatCount="indefinite"/>
+  </text>
 
 </svg>
