@@ -7,37 +7,49 @@
   <h3> Prazer! Me chamo Willian Dias de Oliveira, Tenho 23 anos e sou natural de <b>São Paulo – Capital</b> 🇧🇷</h3>
 </div>
   <p>
-    🎓 Formado em <code>Engenharia Mecatrônica</code><br>
-    💻 Em transição para <code>Desenvolvimento Back-End</code><br>
+    🎓 Formado em <code>Engenharia Mecatrônica</code> | 
+    💻 Em transição para <code>Desenvolvimento Back-End</code> | 
     📚 Estudando <code>Python</code> pela Alura<br>
-    🚀 Construindo projetos práticos para evoluir na área
   </p>
 
   <br>
-
+  
+<div align="center">
   <i>
-    "Minha missão é conquistar minha primeira oportunidade como desenvolvedor e me tornar<br>
-    um profissional cada vez mais sólido no ecossistema de tecnologia."
+    Minha missão é conquistar minha primeira oportunidade como desenvolvedor e me tornar<br>
+    um profissional cada vez mais sólido no ecossistema de tecnologia.<br>
   </i>
+</div>
 
-<p align="center">
+---
+<div align="center">
+  <h3>🌐 Redes Sociais | Contato</h3>
+  <br>
+
   <a href="https://www.linkedin.com/in/willian-dias-oliveira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+
+  <a href="mailto:willian.dias.oliveira@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/_diaswill/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
 ---
 
 # 🧠 Atualmente focado em aprender
 
-* Python
-* Programação Orientada a Objetos
-* APIs REST
-* Integração com Banco de Dados
-* Boas práticas de código
-* Versionamento com Git
+* <i>Python</i>
+* <i>Programação Orientada a Objetos</i>
+* <i>APIs REST</i>
+* <i>Integração com Banco de Dados</i>
+* <i>Boas práticas de código</i>
+* <i>Versionamento com Git</i>
 
----
 
 # ⚡ Stack atual
 
@@ -47,7 +59,6 @@
 
 </div>
 
----
 
 # 📊 Estatísticas GitHub
 
@@ -65,19 +76,6 @@
 </table>
 
 ---
-
-# 🌐 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/willian-dias-oliveira/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
-
 <!-- FRASE FINAL -->
 
 <p align="center">
