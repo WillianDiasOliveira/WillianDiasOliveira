@@ -1,5 +1,88 @@
-<!-- TÍTULO -->
-<h1 align="center">👋 Seja bem-vindo(a), sou Willian</h1>
+
+---
+
+# 👨‍💻 Sobre mim
+
+<br>Prazer! Me chamo **Willian Dias de Oliveira**, tenho 23 anos e sou natural de **São Paulo – Capital** 🇧🇷</br>
+<br>🎓 Formado em **Engenharia Mecatrônica**
+<br>💻 Em transição de carreira para **Desenvolvimento Back-End**
+<br>📚 Estudando **Python pela Alura**
+<br>🚀 Construindo projetos práticos para evoluir na área</br>
+
+Minha missão é conquistar minha primeira oportunidade como desenvolvedor e me tornar um profissional cada vez mais sólido no ecossistema de tecnologia.
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/willian-dias-oliveira/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+
+---
+
+# 🧠 Atualmente focado em aprender
+
+* Python
+* Programação Orientada a Objetos
+* APIs REST
+* Integração com Banco de Dados
+* Boas práticas de código
+* Versionamento com Git
+
+---
+
+# ⚡ Stack atual
+
+<div align="center">
+
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+</div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<table>
+  <tr>
+    <td>
+      <img height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillianDiasOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillianDiasOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🌐 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/willian-dias-oliveira/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<!-- FRASE FINAL -->
+
+<p align="center">
+  💙 Obrigado por visitar meu perfil — volte sempre!
+</p>
+ 
+ 
+ 
+ 
+ <!-- TÍTULO -->
+<!--<h1 align="center">👋 Seja bem-vindo(a), sou Willian</h1>
 
 <p align="center">
   💻 Desenvolvedor Back-End
@@ -58,3 +141,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 </div>
 
 ---
+-->
