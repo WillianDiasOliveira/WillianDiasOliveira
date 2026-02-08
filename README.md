@@ -1,24 +1,30 @@
-
----
-
-# 👨‍💻 Sobre mim
-
-<br>Prazer! Me chamo **Willian Dias de Oliveira**, tenho 23 anos e sou natural de **São Paulo – Capital** 🇧🇷</br>
-<br>🎓 Formado em **Engenharia Mecatrônica**
-<br>💻 Em transição de carreira para **Desenvolvimento Back-End**
-<br>📚 Estudando **Python pela Alura**
-<br>🚀 Construindo projetos práticos para evoluir na área</br>
-
-Minha missão é conquistar minha primeira oportunidade como desenvolvedor e me tornar um profissional cada vez mais sólido no ecossistema de tecnologia.
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/willian-dias-oliveira/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <img src="https://raw.githubusercontent.com/WillianDiasOliveira/WillianDiasOliveira/refs/heads/main/banner.svg"/>
 </p>
 
+---
+<div align="center">
+  <h3> Prazer! Me chamo Willian Dias de Oliveira, Tenho 23 anos e sou natural de <b>São Paulo – Capital</b> 🇧🇷</h3>
+</div>
+  <p>
+    🎓 Formado em <code>Engenharia Mecatrônica</code><br>
+    💻 Em transição para <code>Desenvolvimento Back-End</code><br>
+    📚 Estudando <code>Python</code> pela Alura<br>
+    🚀 Construindo projetos práticos para evoluir na área
+  </p>
+
+  <br>
+
+  <i>
+    "Minha missão é conquistar minha primeira oportunidade como desenvolvedor e me tornar<br>
+    um profissional cada vez mais sólido no ecossistema de tecnologia."
+  </i>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/willian-dias-oliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
