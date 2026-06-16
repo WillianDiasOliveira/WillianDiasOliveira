@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/-Outlook-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/_diaswill/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://learn.microsoft.com/pt-br/users/williandiasdeoliveira-5456/" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft Learn-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </div>
 
