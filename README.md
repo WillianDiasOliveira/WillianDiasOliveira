@@ -55,30 +55,37 @@
 
 <div align="center">
 
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<!-- Back-End e Dados -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
 
+<!-- Automação e RPA -->
+<img width="50" src="https://api.iconify.design/simple-icons/uipath.svg?color=%23FA4616" title="UiPath"/>
+<img width="50" src="https://api.iconify.design/simple-icons/powerautomate.svg?color=%230078D4" title="Power Automate"/>
+<img width="50" src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71" title="n8n"/>
+
 </div>
 
 
+<!-- OCULTADO TEMPORARIAMENTE DEVIDO À INSTABILIDADE DOS SERVIDORES 
 # 📊 Estatísticas GitHub
 
 <table>
   <tr>
     <td>
-      <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillianDiasOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianDiasOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillianDiasOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDiasOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
     </td>
   </tr>
 </table>
+-->
 
 ---
+
 <!-- FRASE FINAL -->
 
 <p align="center">
